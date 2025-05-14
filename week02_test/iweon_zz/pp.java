@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class pp {
     public static void main(String[] args) {
-        double rating = 7.1;
+        double rating = 6;
 
         if (rating <= 9) {System.out.println("'어바웃타임'을 추천합니다.");
     } if (rating <=8) {System.out.println("'토이 스토리'를 추천합니다");
